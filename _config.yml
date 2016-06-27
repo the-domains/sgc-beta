@@ -6,9 +6,9 @@ color:
   saturation: 0.7820895707700402
   rhythmicContrast: 0.320750494254753
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#170F0E'
+    - '#290418'
+    - '#505217'
+    - '#FFD372'
+    - '#FFF1AF'
 name: SGC beta
