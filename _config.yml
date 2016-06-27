@@ -1,0 +1,14 @@
+layout_spectrum: 0.27861538832075894
+typography_spectrum: 0.3630231327842921
+color:
+  brandStrength: 0.3606216642074287
+  lightness: 0.9155207499861717
+  saturation: 0.7820895707700402
+  rhythmicContrast: 0.320750494254753
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: SGC beta
